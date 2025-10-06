@@ -1,5 +1,5 @@
-import 'package:babstrap_settings_screen/src/babs_component_settings_item.dart';
-import 'package:babstrap_settings_screen/src/settings_screen_utils.dart';
+import 'package:flutter_babstrap_settings_screen/src/babs_component_settings_item.dart';
+import 'package:flutter_babstrap_settings_screen/src/settings_screen_utils.dart';
 import 'package:flutter/material.dart';
 
 /// This component group the Settings items (BabsComponentSettingsItem)

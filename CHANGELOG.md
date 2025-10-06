@@ -1,3 +1,10 @@
+## 0.1.8
+
+* Package renamed to flutter_babstrap_settings_screen for pub.dev compliance
+* Updated SDK constraint to ">=2.12.0 <4.0.0"
+* Fixed internal imports to match new package name
+* Main library file renamed to flutter_babstrap_settings_screen.dart
+
 ## 0.1.7
 
 - Support custom color on SettingGroup (backgroundColor)
