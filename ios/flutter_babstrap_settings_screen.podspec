@@ -3,7 +3,7 @@
 # Run `pod lib lint babstrap_settings_screen.podspec` to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'babstrap_settings_screen'
+  s.name             = 'flutter_babstrap_settings_screen'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC
